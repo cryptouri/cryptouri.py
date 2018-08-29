@@ -6,8 +6,8 @@
 [docs-link]: http://www.rubydoc.info/gems/cryptouri/0.3.0
 [license-shield]: https://img.shields.io/badge/license-Apache2-blue.svg
 [license-link]: https://github.com/cryptouri/cryptouri/blob/master/LICENSE
-[build-shield]: https://secure.travis-ci.org/cryptouri/cryptouri-rb.svg?branch=master
-[build-link]: http://travis-ci.org/cryptouri/cryptouri-rb
+[build-shield]: https://secure.travis-ci.org/cryptouri/cryptouri-py.svg?branch=master
+[build-link]: http://travis-ci.org/cryptouri/cryptouri-py
 [gitter-image]: https://badges.gitter.im/badge.svg
 [gitter-link]: https://gitter.im/cryptouri/Lobby
 
@@ -59,7 +59,7 @@ For more information, please see [CODE_OF_CONDUCT.md].
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at:
-<https://github.com/cryptouri/cryptouri-rb>
+<https://github.com/cryptouri/cryptouri-py>
 
 Unless you explicitly state otherwise, any contribution intentionally
 submitted for inclusion in the work by you, as defined in the Apache-2.0
