@@ -11,7 +11,7 @@ setup(
         CryptoURI is a URN-like namespace for encoding various cryptographic objects,
         including keys, signatures, and fingerprints/digests. It leverages the bech32
         serialization format to provide a human-friendly encoding and checksums.
-    """
+    """,
     author="Tony Arcieri",
     author_email="bascule@gmail.com",
     url="https://github.com/cryptouri/cryptouri-py/",
