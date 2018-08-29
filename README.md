@@ -1,9 +1,7 @@
-# cryptouri.py [![Latest Version][gem-shield]][gem-link] [![Yard Docs][docs-image]][docs-link] [![Apache 2.0 licensed][license-shield]][license-link]  [![Build Status][build-shield]][build-link] [![Gitter Chat][gitter-image]][gitter-link]
+# cryptouri.py [![Latest Version][pypi-shield]][pypi-link] [![Apache 2.0 licensed][license-shield]][license-link]  [![Build Status][build-shield]][build-link] [![Gitter Chat][gitter-image]][gitter-link]
 
-[gem-shield]: https://badge.fury.io/rb/cryptouri.svg
-[gem-link]: https://rubygems.org/gems/cryptouri
-[docs-image]: https://img.shields.io/badge/yard-docs-blue.svg
-[docs-link]: http://www.rubydoc.info/gems/cryptouri/0.3.0
+[pypi-shield]: https://img.shields.io/pypi/v/cryptouri.svg
+[pypi-link]: https://pypi.python.org/pypi/cryptouri/
 [license-shield]: https://img.shields.io/badge/license-Apache2-blue.svg
 [license-link]: https://github.com/cryptouri/cryptouri/blob/master/LICENSE
 [build-shield]: https://secure.travis-ci.org/cryptouri/cryptouri-py.svg?branch=master
