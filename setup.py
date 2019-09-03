@@ -14,7 +14,7 @@ setup(
     """,
     author="Tony Arcieri",
     author_email="bascule@gmail.com",
-    url="https://github.com/cryptouri/cryptouri-py/",
+    url="https://github.com/cryptouri/cryptouri.py/",
     packages=["cryptouri"],
     include_package_data=True,
     install_requires=[],
