@@ -1,14 +1,5 @@
 # cryptouri.py [![Latest Version][pypi-shield]][pypi-link] [![Apache 2.0 licensed][license-shield]][license-link]  [![Build Status][build-shield]][build-link] [![Gitter Chat][gitter-image]][gitter-link]
 
-[pypi-shield]: https://img.shields.io/pypi/v/cryptouri.svg
-[pypi-link]: https://pypi.python.org/pypi/cryptouri/
-[license-shield]: https://img.shields.io/badge/license-Apache2-blue.svg
-[license-link]: https://github.com/cryptouri/cryptouri/blob/master/LICENSE
-[build-shield]: https://secure.travis-ci.org/cryptouri/cryptouri-py.svg?branch=master
-[build-link]: http://travis-ci.org/cryptouri/cryptouri-py
-[gitter-image]: https://badges.gitter.im/badge.svg
-[gitter-link]: https://gitter.im/cryptouri/Lobby
-
 Python implementation of [CryptoURI]: a [URN]-like namespace for representing
 cryptographic objects including keys, signatures, and digests:
 
@@ -41,12 +32,8 @@ CryptoURIs which have been mis-transcribed will fail to decode.
 
 Have questions? Want to suggest a feature or change?
 
-* [Gitter]: web-based chat about **cryptouri**
-* [Google Group]: join via web or email ([cryptouri+subscribe@googlegroups.com])
-
-[Gitter]: https://gitter.im/cryptouri/Lobby
-[Google Group]: https://groups.google.com/forum/#!forum/cryptouri
-[cryptouri+subscribe@googlegroups.com]: mailto:cryptouri+subscribe@googlegroups.com
+- [Gitter]: web-based chat about **cryptouri**
+- [Google Group]: join via web or email ([cryptouri+subscribe@googlegroups.com])
 
 ## Code of Conduct
 
@@ -57,7 +44,7 @@ For more information, please see [CODE_OF_CONDUCT.md].
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at:
-<https://github.com/cryptouri/cryptouri-py>
+<https://github.com/cryptouri/cryptouri.py>
 
 Unless you explicitly state otherwise, any contribution intentionally
 submitted for inclusion in the work by you, as defined in the Apache-2.0
@@ -78,9 +65,21 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-[Bech32]: https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki
+[pypi-shield]: https://img.shields.io/pypi/v/cryptouri.svg
+[pypi-link]: https://pypi.python.org/pypi/cryptouri/
+[license-shield]: https://img.shields.io/badge/license-Apache2-blue.svg
+[license-link]: https://github.com/cryptouri/cryptouri.py/blob/develop/LICENSE
+[build-shield]: https://travis-ci.org/cryptouri/cryptouri.py.svg?branch=develop
+[build-link]: https://travis-ci.org/cryptouri/cryptouri.py
+[gitter-image]: https://badges.gitter.im/badge.svg
+[gitter-link]: https://gitter.im/cryptouri/Lobby
+
+[Bech32]: https://github.com/bitcoin/bips/blob/develop/bip-0173.mediawiki
 [cc]: https://contributor-covenant.org
 [CryptoURI]: https://cryptouri.org
-[CODE_OF_CONDUCT.md]: https://github.com/cryptouri/cryptouri-rs/blob/master/CODE_OF_CONDUCT.md
+[CODE_OF_CONDUCT.md]: https://github.com/cryptouri/cryptouri-rs/blob/develop/CODE_OF_CONDUCT.md
 [RFC 3986]: https://tools.ietf.org/html/rfc3986
 [URN]: https://en.wikipedia.org/wiki/Uniform_Resource_Name
+[Gitter]: https://gitter.im/cryptouri/Lobby
+[Google Group]: https://groups.google.com/forum/#!forum/cryptouri
+[cryptouri+subscribe@googlegroups.com]: mailto:cryptouri+subscribe@googlegroups.com
