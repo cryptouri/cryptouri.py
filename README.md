@@ -65,6 +65,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+[//]: # (badges)
+
 [pypi-shield]: https://img.shields.io/pypi/v/cryptouri.svg
 [pypi-link]: https://pypi.python.org/pypi/cryptouri/
 [license-shield]: https://img.shields.io/badge/license-Apache2-blue.svg
@@ -73,6 +75,8 @@ limitations under the License.
 [build-link]: https://travis-ci.org/cryptouri/cryptouri.py
 [gitter-image]: https://badges.gitter.im/badge.svg
 [gitter-link]: https://gitter.im/cryptouri/Lobby
+
+[//]: # (general links)
 
 [Bech32]: https://github.com/bitcoin/bips/blob/develop/bip-0173.mediawiki
 [cc]: https://contributor-covenant.org
